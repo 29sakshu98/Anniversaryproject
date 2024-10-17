@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//this is scanner input
 public class AgeApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
