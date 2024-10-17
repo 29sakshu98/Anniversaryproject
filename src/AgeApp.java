@@ -29,6 +29,6 @@ public class AgeApp {
             System.out.println("Happy mid-life!");
         }
 
-        scanner.close();
+        scanner.close(); // close the scanner
     }
 }
