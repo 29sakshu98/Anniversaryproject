@@ -1,6 +1,6 @@
 public class AgeApp {
     public static void main(String[] args) {
-        int age = 67; 
+        int age = 80; 
         if (age > 0 && age < 18) {
             System.out.println("You are underage.");
             if (age >= 15) {
