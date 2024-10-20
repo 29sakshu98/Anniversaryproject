@@ -1,13 +1,10 @@
 public class AgeApp {
     public static void main(String[] args) {
-        int age = 80; 
+        int age = 11; // Change the age here to test
+
         if (age > 0 && age < 18) {
+            
             System.out.println("You are underage.");
-            if (age >= 15) {
-                System.out.println("You can drive a moped.");
-
-
-            }
         } else if (age >= 65) {
             System.out.println("You are retired.");
         } else {
